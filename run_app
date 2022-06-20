@@ -1,0 +1,4 @@
+#!/usr/bin/csh
+setenv FLASK_APP flaskr
+setenv FLASK_ENV development
+flask run
